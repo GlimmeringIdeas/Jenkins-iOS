@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.3.0):
+    - Charts/Core (= 3.3.0)
+  - Charts/Core (3.3.0)
+  - dsBridge (3.0.6)
+
+DEPENDENCIES:
+  - Charts
+  - dsBridge
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - dsBridge
+
+SPEC CHECKSUMS:
+  Charts: ec1f57f9340054155691e84d4544a1d239d382c5
+  dsBridge: 48b62ee8a411ad601a88d6f6c8cf6cb634b206b7
+
+PODFILE CHECKSUM: 79aa3e6cd95bfc637040923279b6e46460282008
+
+COCOAPODS: 1.5.2
